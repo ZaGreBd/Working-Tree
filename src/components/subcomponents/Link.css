@@ -1,0 +1,26 @@
+.link{
+    text-decoration: none;
+    outline: none;
+}
+
+.link li{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+
+    border-bottom: 1px solid black;
+}
+
+.link li img{
+    width: 30px;
+}
+
+.link li p{
+    margin: 0;
+    font-size: 1em;
+    font-weight: 400;
+}
