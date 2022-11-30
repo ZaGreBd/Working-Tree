@@ -1,0 +1,19 @@
+//Import Colors
+@import "./colors/colors.scss";
+
+//Import Index
+@import "./components/index.scss";
+
+
+//Import Components
+@import "./components/home.scss";
+
+@import "./components/musics.scss";
+
+@import "./components/subcomponents/music.scss";
+
+@import "./components/links.scss";
+
+@import "./components/subcomponents/link.scss";
+
+@import "./components/icons.scss";
