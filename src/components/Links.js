@@ -3,6 +3,7 @@ import "./Links.css";
 
 import { Link } from "./subcomponents/Link";
 import Globe from "../assets/icons/globe.svg";
+import Discord_logo from "../assets/icons/discord.svg";
 import Pinterest_logo from "../assets/icons/pinterest.svg";
 import Spotify_logo from "../assets/icons/spotify.svg";
 
@@ -10,6 +11,12 @@ export function Links() {
   return (
     <div className="links">
       <ul>
+        <Link
+          media_name="Discord"
+          href="https://discord.gg/vSKZQaC"
+          image={Discord_logo}
+          alt="Ícone do Discord"
+        />
         <Link
           media_name="Portfólio"
           href="https://portfolio-zagebd.vercel.app/"

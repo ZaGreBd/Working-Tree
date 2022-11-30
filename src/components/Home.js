@@ -12,7 +12,7 @@ export function Home() {
       <div className="home_banner">
         <div className="home_profile">
           <div className="home_function">
-            <p>DEVELOPER FRONT END</p>
+            <p>Desenvolvedor Front-end</p>
           </div>
           <div className="home_name">
             <p>Pedro Neto</p>
