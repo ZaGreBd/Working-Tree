@@ -1,7 +1,7 @@
 <h1 align="center"> Working Tree </h1>
 
 <p align="center">
-Site que traz alguns sites e redes sociais que auxiliam a me encontrar e conhecer mais um pouco, fique a vontade para entrar em contato caso deseje.
+Site que traz alguns sites e redes sociais que auxiliam a me encontrar e conhecer mais um pouco, fique a vontade para entrar em contato caso e/ou enviar alguma sugestão, caso deseje.
 </p>
 
 <p align="center">
