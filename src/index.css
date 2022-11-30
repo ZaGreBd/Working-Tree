@@ -1,8 +1,9 @@
 :root {
   --bg-color: #e8fdff;
-  --main-color: #48FEFD;
-  --icons-color: #54A6AC;
-  --purple: #BB99DD;
+  --border-color: #48FEFD;
+  --main-color: #54A6AC;
+  --icons-color-hover: #cdcdcd;
+  --links-color-hover: #fff;
 }
 
 body{ 
@@ -11,4 +12,5 @@ body{
   padding: 0;
 
   font-family: 'Poppins', sans-serif;
+  color: var(--main-color);
 }

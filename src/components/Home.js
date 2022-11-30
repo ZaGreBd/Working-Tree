@@ -3,6 +3,7 @@ import "./Home.css";
 
 import { Links } from "./Links";
 import { Icons } from "./Icons";
+import { Musics } from "./Musics";
 import Photo from "../assets/photos/shanks.jpg";
 
 export function Home() {
@@ -22,11 +23,11 @@ export function Home() {
         </div>
       </div>
       <div className="home_music">
-
+        <Musics />
       </div>
       <div className="home_links">
-        <Links/>
-        <Icons/>
+        <Links />
+        <Icons />
       </div>
     </div>
   );

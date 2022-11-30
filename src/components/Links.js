@@ -12,7 +12,7 @@ export function Links() {
       <ul>
         <Link
           media_name="Portfólio"
-          href="https://open.spotify.com/user/22ljhlejgkl7aqiwhg2vjlphq"
+          href="https://portfolio-zagebd.vercel.app/"
           image={Globe}
           alt="Ícone de globo"
         />
