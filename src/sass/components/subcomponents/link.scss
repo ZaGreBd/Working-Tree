@@ -2,13 +2,13 @@
   outline: none;
   text-decoration: none;
   transition: all 0.6s ease;
-  color: var(--icons-color);
+  color: $main-color;
 
-  border: 3px solid var(--main-color);
+  border: 3px solid $main-color;
   border-radius: 12px;
 
   &:hover {
-    background-color: var(--links-color-hover);
+    background-color: $links-color-hover;
   }
 
   li {

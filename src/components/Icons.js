@@ -1,5 +1,5 @@
 import React from "react";
-import "./Icons.css";
+// import "./Icons.css";
 
 import { Icon } from "./subcomponents/Icon";
 import Mail_logo from "../assets/icons/mail.svg";

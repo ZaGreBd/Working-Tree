@@ -1,0 +1,10 @@
+.icon{
+    display: flex;
+    padding: 5px;
+    border-radius: 50%;
+    transition: all .6s ease;
+
+    &:hover{
+        background-color: $icons-color-hover;
+    }
+}

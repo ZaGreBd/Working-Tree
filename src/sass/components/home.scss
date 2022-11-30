@@ -1,11 +1,11 @@
 .home {
-  background-color: var($bg-color);
+  background-color: $bg-color;
   min-height: 100vh;
 
   .home_banner {
     height: 350px;
     overflow: hidden;
-    background-image: url("../../assets/background_image.jpg");
+    background-image: $banner;
     background-position: center;
     background-repeat: no-repeat;
     background-position-y: 30%;
@@ -42,7 +42,7 @@
       }
 
       .home_photo {
-        border: 3px solid var(--border-color);
+        border: 3px solid $border-color;
         padding: 5px;
         border-radius: 50%;
 

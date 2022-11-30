@@ -1,5 +1,6 @@
 //Import Colors
-@import "./colors/colors.scss";
+@import "./variables/colors/colors.scss";
+@import "./variables/images/images.scss";
 
 //Import Index
 @import "./components/index.scss";
@@ -17,3 +18,5 @@
 @import "./components/subcomponents/link.scss";
 
 @import "./components/icons.scss";
+
+@import "./components/subcomponents/icon.scss"

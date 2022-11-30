@@ -1,5 +1,5 @@
 import React from "react";
-import "./Musics.css";
+// import "./Musics.css";
 
 import { Music } from "./subcomponents/Music";
 
