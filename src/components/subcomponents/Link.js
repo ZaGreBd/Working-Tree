@@ -1,5 +1,4 @@
 import React from "react";
-// import "./Link.css";
 
 export function Link(props) {
   return (

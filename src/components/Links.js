@@ -1,5 +1,4 @@
 import React from "react";
-// import "./Links.css";
 
 import { Link } from "./subcomponents/Link";
 import Globe from "../assets/icons/globe.svg";
