@@ -24,7 +24,7 @@ Site que traz alguns sites e redes sociais que auxiliam a me encontrar e conhece
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- CSS
+- SASS
 - JavaScript (React)
 - Git e Github
 
