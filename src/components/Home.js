@@ -3,7 +3,7 @@ import React from "react";
 import { Links } from "./Links";
 import { Icons } from "./Icons";
 import { Musics } from "./Musics";
-import Photo from "../assets/photos/shanks.jpg";
+import Photo from "../assets/photos/eu.jpg";
 
 export function Home() {
   return (
