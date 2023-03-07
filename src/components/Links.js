@@ -18,7 +18,7 @@ export function Links() {
         />
         <Link
           media_name="Portfólio"
-          href="https://portfolio-zagebd.vercel.app/"
+          href="https://portfolio-zagrebd.vercel.app/"
           image={Globe}
           alt="Ícone de globo"
         />
